@@ -116,6 +116,10 @@ body{
       justify-content: space-evenly;
     }
 
+    .line-1 {
+      font-size: 11px;
+    }
+
     .cube {
       left: unset;
       top: 45vh;
@@ -140,6 +144,7 @@ body{
 
     .wavytext {
       height: unset ;
+      margin-bottom: 100px;
     }
     .wavytext h2 {
       font-size: 4em;
@@ -148,6 +153,11 @@ body{
 
     .skills {
       flex-direction: column;
+    }
+
+    .skills-wrapper ul {
+      padding: 0;
+      border: none;
     }
 
     .skills-wrapper {

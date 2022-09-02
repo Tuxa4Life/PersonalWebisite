@@ -2,7 +2,6 @@ import React from "react";
 import Hello from "./Components/Hello";
 import Cube from "./Components/Cube";
 import WavyText from "./Components/WavyText";
-import Icon from "./Components/Icon";
 import WaveFooter from "./Components/WaveFooter";
 import styles from './Assets/Styles/App.css'
 
