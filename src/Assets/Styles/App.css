@@ -142,9 +142,12 @@ body{
       width: 95%;
     }
 
+    .wavy-text-container {
+      margin-bottom: 150px;
+    }
+
     .wavytext {
       height: unset ;
-      margin-bottom: 100px;
     }
     .wavytext h2 {
       font-size: 4em;
