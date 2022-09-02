@@ -3,7 +3,7 @@ import styles from '../Assets/Styles/WavyText.css'
 
 const WavyText = ({ content }) => {
     return (
-        <div style={styles} className="content">
+        <div style={styles} className="content wavytext">
             <h2>{ content }</h2>
             <h2>{ content }</h2>
         </div>
