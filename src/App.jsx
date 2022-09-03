@@ -21,7 +21,7 @@ const App = () => {
                     <div className="about-me-content">
                         <h4>// About Me</h4>
                         <p>
-                            My name's Nick, I'm developer. As a kid, I always was fascinated by the way computers worked. Soon enough willpower overcame me and I started learning programming languages. Though I know that these aren't enough to fully understand how this wonderful modern technology works, so I'm not going to stop. Surpassing my limits are only way and nothing's going to stop me. I will achieve my dreams and live with best life. Technology is future and whoever controls the technology, will control the future too.
+                            My name's Nick, I'm a developer. As a kid, I always were fascinated by the way computers worked. Soon enough willpower overcame me and started learning programming languages. However, I know that these aren't enough to entirely understand how this wonderful, modern technology works. So I'm not going to stop. I'll surpass my limits and go to infinity nad beyond! I will achieve my dreams and live with the best life. Technology is future and whoever controls the technology, will control the future too.
                         </p>
 
                         <br />
