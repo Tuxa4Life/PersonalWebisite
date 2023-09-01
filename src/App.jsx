@@ -43,11 +43,11 @@ const App = () => {
                 <div className="skills-wrapper">
                     <h4>// Skills</h4>
                     <ul>
-                        <li><h4>HTML <strong>100%</strong></h4> - Semantic UI <strong>100%</strong>, Bootstrap <strong>60%</strong></li>
-                        <li><h4>CSS <strong>100%</strong></h4> - SCSS <strong>100%</strong></li>
-                        <li><h4>JavaScript <strong>80%</strong></h4> - jQuery <strong>50%</strong>, ReactJS <strong>80%</strong>.</li>
-                        <li><h4>Python <strong>100%</strong></h4></li>
-                        <li><h4>C# <strong>100%</strong></h4> - WPF <strong>70%</strong>, Unity<strong>65%</strong></li>
+                        <li><h4>HTML</h4> - Semantic UI, Bootstrap </li>
+                        <li><h4>CSS </h4> - SCSS </li>
+                        <li><h4>JavaScript </h4> - jQuery, ReactJS .</li>
+                        <li><h4>Python</h4> - openCV, pyautogui</li>
+                        <li><h4>C#</h4> - WPF, Unity</li>
                     </ul>
                 </div>
                 <div className="quote">
