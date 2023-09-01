@@ -21,14 +21,14 @@ const App = () => {
                     <div className="about-me-content">
                         <h4>// About Me</h4>
                         <p>
-                            My name's Nick, I'm a developer. As a kid, I always were fascinated by the way computers worked. Soon enough willpower overcame me and started learning programming languages. However, I know that these aren't enough to entirely understand how this wonderful, modern technology works. So I'm not going to stop. I'll surpass my limits and go to infinity nad beyond! I will achieve my dreams and live with the best life. Technology is future and whoever controls the technology, will control the future too.
+                            I'm Nick, a developer. As a kid, I always was fascinated by the way computers have worked. Soon enough, willpower overcame me and I started learning programming languages. However, I know that these aren't enough to thoroughly understand how this exciting technology works. So I'm not going to stop. I'll surpass my limits and go to the infinity nad beyond! I will achieve my dreams and live with the best life. Technology is future and whoever controls the technology, will control the future too.
                         </p>
 
                         <br />
 
                         <h4>// Belief</h4>
                         <p>
-                            Nothing comes out without working. Only hardwork and diligence will sew your road to success.
+                            Nothing comes out without working. Only hardwork and diligence will sew your road to the success.
                         </p>
                     </div>
                     <div className="wavy-text-container">
