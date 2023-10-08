@@ -48,6 +48,7 @@ const App = () => {
                         <li><h4>JavaScript </h4> - jQuery, ReactJS .</li>
                         <li><h4>Python</h4> - openCV, pyautogui</li>
                         <li><h4>C#</h4> - WPF, Unity</li>
+                        <li><h4>Java</h4></li>
                     </ul>
                 </div>
                 <div className="quote">
