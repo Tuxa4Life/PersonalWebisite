@@ -21,14 +21,14 @@ const App = () => {
                     <div className="about-me-content">
                         <h4>// About Me</h4>
                         <p>
-                            I'm Nick, a developer. As a kid, I always was fascinated by the way computers have worked. Soon enough, willpower overcame me and I started learning programming languages. However, I know that these aren't enough to thoroughly understand how this exciting technology works. So I'm not going to stop. I'll surpass my limits and go to the infinity nad beyond! I will achieve my dreams and live with the best life. Technology is future and whoever controls the technology, will control the future too.
+                            I'm Nick, a developer. As a kid, I was always fascinated by the way computers worked. Soon enough, willpower overcame me and I started learning programming languages. I know that these aren't enough to thoroughly understand how this exciting technology is built. So I'm not going to stop. I'll surpass my limits and go to the infinity and beyond! Technology is future and whoever controls the technology, will control the future too.
                         </p>
 
                         <br />
 
                         <h4>// Belief</h4>
                         <p>
-                            Nothing comes out without working. Only hardwork and diligence will sew your road to the success.
+                            Nothing comes out without working. Only hardwork and diligence will sew your road to success.
                         </p>
                     </div>
                     <div className="wavy-text-container">
@@ -41,18 +41,30 @@ const App = () => {
             <hr />
             <section className="skills">
                 <div className="skills-wrapper">
-                    <h4>// Skills</h4>
-                    <ul>
-                        <li><h4>HTML</h4> - Semantic UI, Bootstrap </li>
-                        <li><h4>CSS </h4> - SCSS </li>
-                        <li><h4>JavaScript </h4> - jQuery, ReactJS .</li>
-                        <li><h4>Python</h4> - openCV, pyautogui</li>
-                        <li><h4>C#</h4> - WPF, Unity</li>
-                        <li><h4>Java</h4></li>
-                    </ul>
+                    <h4>// Tools in which I'm confident in</h4>
+                    <div style={{fontSize: '48px', marginTop: '60px'}} className="skillsContainer">
+                        <i style={{margin: '0 10px'}} class="html5 icon"></i>
+                        <i style={{margin: '0 10px'}} class="sass icon"></i>   
+                        <i style={{margin: '0 10px'}} class="js icon"></i>   
+                        <i style={{margin: '0 10px'}} class="node icon"></i>   
+                        <br />
+                        <i style={{margin: '0 10px'}} class="react icon"></i>
+                        <i style={{margin: '0 10px'}} class="fa-brands fa-cpanel"></i>
+                        <i style={{margin: '0 10px'}} class="python icon"></i>
+                        <i style={{margin: '0 10px'}} class="fa-brands fa-java"></i>
+                        <br />  
+                        <i style={{margin: '0 10px'}} class="fa-brands fa-c">#</i>
+                        <i style={{margin: '0 10px'}} class="npm icon"></i>
+                        <i style={{margin: '0 10px'}} class="github icon"></i> 
+                        <i style={{margin: '0 10px'}} class="fa-brands fa-git-alt"></i>
+                        <br />
+                        <i style={{margin: '0 10px'}} class="fa-brands fa-slack"></i>
+                    </div>
+
+                    <h5>// And there are other things that I have average knowledge of</h5>
                 </div>
                 <div className="quote">
-                    <h4>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." <br /> - Martin Fowler</h4>
+                    <h3>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." <br /> - Martin Fowler</h3>
                 </div>
             </section>
             <WaveFooter />
